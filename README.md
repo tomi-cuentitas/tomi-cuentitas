@@ -1,7 +1,7 @@
 # Federico Tomás B. Pérez
 
-**Invited Researcher at [Institut für Theoretische Physik](https://www.uni-ulm.de/nawi/institut-fuer-theoretische-physik-start-page/people/current-members/), Universität Ulm, Germany**  
-**Ph.D. Student at [Instituto de Física La Plata](https://www.iflp.unlp.edu.ar/inicio/main_home-15126), Argentina**
+#### **Invited Researcher at [Institut für Theoretische Physik](https://www.uni-ulm.de/nawi/institut-fuer-theoretische-physik-start-page/people/current-members/), Universitätulm, Germany**  
+#### **Ph.D. Student at [Instituto de Física La Plata](https://www.iflp.unlp.edu.ar/inicio/main_home-15126), Argentina**
 ---
 
 ### 📎 Useful Links  
