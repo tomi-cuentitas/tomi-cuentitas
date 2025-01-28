@@ -11,7 +11,7 @@
 
 ## 🧑‍🔬 About Me
 
-I am a Ph.D. student at the Instituto de Física La Plata (CONICET), Argentina, and an Invited Researcher at the Institut für Theoretische Physik (Universität Ulm), Germany. My research focuses on classical simulation techniques for many-body quantum systems.  
+I am a **Ph.D. student** at the **Instituto de Física La Plata** (CONICET), **Argentina**, and an **Invited Researcher** at the **Institut für Theoretische Physik** (**Universitätulm**), Germany. My research focuses on classical simulation techniques for many-body quantum systems.  
 
 My dissertation revolves around utilizing and developing the Maximum-Entropy (Max-Ent) principle as a controllable, scalable, and adaptive simulation scheme. During my work with M.B. Plenio's group, I explore Bayesian methods for tensor network simulations of critical systems.
 
